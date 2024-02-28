@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[df_pass.plugin]]></item>
+	<item id="RevisionID"><![CDATA[96332]]></item>
+	<item id="SN"><![CDATA[2024022804ODSxxzsSrY]]></item>
+	<item id="RevisionDateline"><![CDATA[1702523112]]></item>
+	<item id="Data">
+		<item id="/index.html"><![CDATA[d41d8cd98f00b204e9800998ecf8427e]]></item>
+		<item id="/check.php"><![CDATA[3a0114c0ec1d2dd02a0009726a91feb6]]></item>
+		<item id="/discuz_plugin_df_pass_SC_UTF8.xml"><![CDATA[2f2798bff7575f50372b9f1a32dfb685]]></item>
+		<item id="/pass.class.php"><![CDATA[97196e96da7b67fbb779c6e39cd60f87]]></item>
+		<item id="/discuz_plugin_df_pass_TC_UTF8.xml"><![CDATA[f24138a2e91b33f7434c6cae8e946907]]></item>
+		<item id="/template/index.html"><![CDATA[d41d8cd98f00b204e9800998ecf8427e]]></item>
+		<item id="/template/svg/comiis_e_hide.svg"><![CDATA[a86c5a9191bd340eaa2c1aaa02d75a2a]]></item>
+		<item id="/template/svg/comiis_ico_view.svg"><![CDATA[bf490bc4fe2b3b579fc75bc809cb7dd6]]></item>
+	</item>
+</root>

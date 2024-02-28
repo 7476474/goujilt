@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[qqconnect.plugin]]></item>
+	<item id="RevisionID"><![CDATA[21080]]></item>
+	<item id="SN"><![CDATA[2024022804JXp7XJxO58]]></item>
+	<item id="RevisionDateline"><![CDATA[1631758335]]></item>
+	<item id="Data">
+		<item id="/discuz_plugin_qqconnect_SC_UTF8.xml"><![CDATA[6f2051dde5d8a304891fb5414689c9e7]]></item>
+		<item id="/connect.class.php"><![CDATA[a0eaf7f780af6fa3c52e594787763e56]]></item>
+		<item id="/admincp.inc.php"><![CDATA[ef5223b9dfa2b62b59a3585969979366]]></item>
+		<item id="/connect/connect_check.php"><![CDATA[40afc8fbc4a889a9dfacf269e32c0e29]]></item>
+		<item id="/connect/connect_feed.php"><![CDATA[1b8e63b4075a4d694cd9ea784dac5db3]]></item>
+		<item id="/connect/connect_config.php"><![CDATA[cd75a1f0e4df1882ee3a152b0982ff29]]></item>
+		<item id="/connect/connect_user.php"><![CDATA[07ea4dfe76d6636138e7f681a0d1709c]]></item>
+		<item id="/connect/connect_login.php"><![CDATA[5bf6c338fc2b19bc5d2ae992edbc93bc]]></item>
+		<item id="/connect/index.htm"><![CDATA[d41d8cd98f00b204e9800998ecf8427e]]></item>
+		<item id="/check.php"><![CDATA[654c9ce4022ac155bf3d6542d1e4acbf]]></item>
+		<item id="/upgrade.php"><![CDATA[bb9725c013ad66ef02764aabadb3e1be]]></item>
+		<item id="/install.php"><![CDATA[f5f579370ca6f4b3d43db0b1ff2fab87]]></item>
+		<item id="/discuz_plugin_qqconnect_TC_UTF8.xml"><![CDATA[356a70f7c6b0c6669e2e1adb27094c95]]></item>
+		<item id="/index.htm"><![CDATA[d41d8cd98f00b204e9800998ecf8427e]]></item>
+		<item id="/spacecp.inc.php"><![CDATA[dd5354d78bbd571def6ddcecb22ac24a]]></item>
+		<item id="/table/table_connect_memberbindlog.php"><![CDATA[9551e7bd0abe50a48c69d2933d33d081]]></item>
+		<item id="/table/table_common_member_connect.php"><![CDATA[29fefad0b906d9ea527372a5e02aae67]]></item>
+		<item id="/table/table_connect_feedlog.php"><![CDATA[b19aa9f4a1dc76d318a2657f8b7867c2]]></item>
+		<item id="/table/table_connect_disktask.php"><![CDATA[9382448418a28babb9a68ccb694d0fbf]]></item>
+		<item id="/table/table_connect_tthreadlog.php"><![CDATA[1bc607eb8d23fca83db4d3293c83f3c0]]></item>
+		<item id="/table/index.htm"><![CDATA[d41d8cd98f00b204e9800998ecf8427e]]></item>
+		<item id="/table/table_connect_postfeedlog.php"><![CDATA[39415eb9fe674d19de3d59139d1e374d]]></item>
+		<item id="/table/table_common_connect_guest.php"><![CDATA[5592cc874b1551e90853b6bcea4fb867]]></item>
+		<item id="/lib/ConnectOAuth.php"><![CDATA[40c2fea80eb5c22b8b4a989213b1f17b]]></item>
+		<item id="/lib/Util.php"><![CDATA[21b7a9d3dcfa0389438d772e88cb50ec]]></item>
+		<item id="/lib/index.htm"><![CDATA[d41d8cd98f00b204e9800998ecf8427e]]></item>
+		<item id="/lib/OAuth.php"><![CDATA[63e776dd568538fa544a31cc0a597b0f]]></item>
+		<item id="/lib/Connect.php"><![CDATA[dd3ab93dea5f6fff55364007eb49f86c]]></item>
+		<item id="/template/module.htm"><![CDATA[4c78009b317508e83353fe7e11145ffd]]></item>
+		<item id="/template/spacecp.htm"><![CDATA[b33862b4cf8a1e872d09270a634a1218]]></item>
+		<item id="/template/index.htm"><![CDATA[d41d8cd98f00b204e9800998ecf8427e]]></item>
+		<item id="/template/extend_common.css"><![CDATA[7af60439cf0b5580cd9bb3e0f8dbfc2a]]></item>
+		<item id="/template/extend_module.css"><![CDATA[1bce030e290622fb655c892ab62138c3]]></item>
+	</item>
+</root>
